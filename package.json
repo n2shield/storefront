@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Store manager application.",
+  "main": "bamazonManager.js",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n2shield/storefront.git"
+  },
+  "author": "Chris Morrissey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n2shield/storefront/issues"
+  },
+  "homepage": "https://github.com/n2shield/storefront#readme"
+}
