@@ -105,9 +105,7 @@ function reprompt(){
       start();
     } else if (ans.reply === 'n'){
       console.log("See you soon!");
-    } else if (err) {
-      throw err;
-    }
+    } 
   });
 }
 
